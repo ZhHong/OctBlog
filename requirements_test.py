@@ -1,6 +1,6 @@
--r requirements.txt
-
-Faker
-factory_boy
-mongomock
-coverage
+# -r requirements.txt
+#
+# Faker
+# factory_boy
+# mongomock
+# coverage
